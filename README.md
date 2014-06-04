@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="http://www.cocos2d-x.org/attachments/801/cocos2dx_portrait.png" width=200>
 
 
@@ -202,3 +203,9 @@ Contact us
 [10]: http://www.twitter.com/cocos2dx "http://www.twitter.com/cocos2dx"
 [11]: http://t.sina.com.cn/cocos2dx "http://t.sina.com.cn/cocos2dx"
 [12]: https://webchat.freenode.net/ "https://webchat.freenode.net/"
+=======
+cocos2d-x
+=========
+
+我的cocos2d-x源码
+>>>>>>> e1dd158cb99debae4041ce95755cf9d72adf1ca8
